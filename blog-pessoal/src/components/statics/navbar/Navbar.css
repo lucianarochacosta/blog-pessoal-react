@@ -1,0 +1,15 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+    background: #244673;
+    padding: 0px;
+    margin: 3px;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    background-color: #244673 !important;
+}
