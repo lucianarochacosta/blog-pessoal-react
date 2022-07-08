@@ -16,6 +16,7 @@ function Navbar() {
         alert("Usuário deslogado")
         navigate('/login')
     }
+    
     return (
         <>
             <AppBar position="static">
